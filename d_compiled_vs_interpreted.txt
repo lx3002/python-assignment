@@ -1,0 +1,5 @@
+Compiled languages are translated into machine code by a compiler before execution, resulting in faster performance. Examples include C and C++.
+
+Interpreted languages are executed line by line by an interpreter, which makes them easier to debug and more portable, but generally slower. Examples include Python and JavaScript.
+
+Python is an interpreted language, meaning its code is executed by an interpreter at runtime rather than being compiled into machine code beforehand. 
